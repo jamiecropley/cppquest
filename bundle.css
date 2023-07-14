@@ -3,33 +3,40 @@ body {
 
 
     font-family: "century-gothic", sans-serif;
-    background-color: #000;
+    background-color: #ffffff;
 }
 
 
 .title h1 {
     font-family: "orbitron", sans-serif;
     font-size: 64px;
+    font-weight: 700;
+    text-align: center;
     letter-spacing: 6px;
-    width: 80%;
+    width: 30%;
     margin: auto;
     margin-top: 10%;
-    background-color: #161a28;
-    border-radius: 5px;
+    background-color: #D0342C;
     padding: 20px;
     color: #ffff;
-    border: 1px solid #474b62;
-    box-shadow: 0 0 10px #474b62;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+nav {
+    text-align: center;
+    margin-top: 1%;
 }
 
 .dialogue-box {
     width: 80%;
     margin: auto;
     margin-top: 10%;
-    background-color: #161a28;
+    background-color: #ffffff;
     border-radius: 5px;
     padding: 20px;
-    color: #ffff;
-    border: 1px solid #474b62;
-    box-shadow: 0 0 10px #474b62;
+    color: #000000;
+    border: 1px solid #000000;
+    box-shadow: 0 0 10px #000000;
 }
