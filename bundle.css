@@ -1,0 +1,35 @@
+body {
+
+
+
+    font-family: "century-gothic", sans-serif;
+    background-color: #000;
+}
+
+
+.title h1 {
+    font-family: "orbitron", sans-serif;
+    font-size: 64px;
+    letter-spacing: 6px;
+    width: 80%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #161a28;
+    border-radius: 5px;
+    padding: 20px;
+    color: #ffff;
+    border: 1px solid #474b62;
+    box-shadow: 0 0 10px #474b62;
+}
+
+.dialogue-box {
+    width: 80%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #161a28;
+    border-radius: 5px;
+    padding: 20px;
+    color: #ffff;
+    border: 1px solid #474b62;
+    box-shadow: 0 0 10px #474b62;
+}
