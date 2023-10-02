@@ -1,14 +1,11 @@
 body {
-
-
-
-    font-family: "century-gothic", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
     background-color: #ffffff;
 }
 
 
 .title h1 {
-    font-family: "orbitron", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 64px;
     font-weight: 700;
     text-align: center;
